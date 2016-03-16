@@ -1,0 +1,9 @@
+<archetype>
+  <id>deeplearning</id>
+  <sources>
+    <source>src/main/java/DeepLearningMain.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/DeepLearningTest.java</source>
+  </testSources>
+</archetype>
